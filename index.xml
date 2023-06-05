@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TrickyTech Blog!</title>
+    <link>https://dzc1ph3r.github.io/</link>
+    <description>Recent content on TrickyTech Blog!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dzc1ph3r.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://dzc1ph3r.github.io/posts/</link>
+      <pubDate>Mon, 05 Jun 2023 01:44:24 +0100</pubDate>
+      
+      <guid>https://dzc1ph3r.github.io/posts/</guid>
+      <description>Yet a new blog to publish Let me try my first post</description>
+    </item>
+    
+  </channel>
+</rss>
